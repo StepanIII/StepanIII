@@ -3,5 +3,5 @@ During this time, I learned the basics of Java programming, how web development 
 I plan to further develop in this area and become a professional in my field.
 
 ## Contacts:
-- 8-920-332-92-16
+- 8-920-332-82-16
 - stepancupriyanovich@gmail.com
